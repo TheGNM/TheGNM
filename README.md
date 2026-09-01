@@ -1,3 +1,2 @@
 ## Hi there 👋
-
-![My user statistics](images/userstats.svg)
+I am la Kelpy
