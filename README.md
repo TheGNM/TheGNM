@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repos or reach out.</i>
+  <i>Thanks for stopping by! Feel free to explore my repos.</i>
 </p>
