@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGNM&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGNM&hide_border=true&theme=dark"/>
 </p>
 
 ---
