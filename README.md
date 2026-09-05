@@ -51,8 +51,8 @@
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/TheGNM/thegnm.github.io">Project Three</a></b><br/>
-      Personal website.
+      <b><a href="https://github.com/TheGNM/thegnm.github.io">Personal website</a></b><br/>
+      Personal website and currently still in development.
     </td>
   </tr>
 </table>
