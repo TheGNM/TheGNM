@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/TheGNM/Build-ItPC">Build-ItPC</a></b><br/>
+      <b><a href="https://github.com/NazuChomp/Build-It-PC-System">Build-ItPC-System</a></b><br/>
       Build-ItPC is a web-system for checking PC parts compatibility, test build compatibility and guides on how PC is build (University Project).
     </td>
   </tr>
