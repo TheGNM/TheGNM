@@ -62,3 +62,8 @@
 <p align="center">
   <i>Thanks for stopping by! Feel free to explore my repos.</i>
 </p>
+
+---
+<p align="center">
+  <img src="http://moe-counter.es3n1n.eu/@TheGNM?name=TheGNM&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="500px"/>
+</p>
