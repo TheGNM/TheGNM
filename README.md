@@ -53,7 +53,6 @@ I'm an Information Technology student who enjoys building software, exploring Li
 - Ollama and locally hosted language models
 - ChromaDB and AI application development
 - ComfyUI, ROCm, and AMD GPU experimentation
-- yt-dlp and FFmpeg
 - Live2D and character-design workflows
 
 ## 📌 Featured Projects
