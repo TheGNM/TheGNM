@@ -94,8 +94,8 @@ My personal website project and space for experimenting with web development.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGNM&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Kelpy's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGNM&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheGNM&theme=tokyonight" height="180" alt="Kelpy's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheGNM&theme=tokyonight" height="180" alt="Most used languages by repository" />
 </p>
 
 <p align="center">
